@@ -1,0 +1,2 @@
+git config --globel user.name 'samehserag123'
+git config --globel user.email samehserag16@gmail.com
